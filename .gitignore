@@ -1,0 +1,36 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+
+# Memory dumps
+*.dmpr
+*.dump
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.db
+*.VisualState.xml
+**/[Bb]in/
+**/[Oo]bj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
